@@ -1,0 +1,528 @@
+[
+  {
+    "sku": "CK000204",
+    "descripcion": "AEREO ESPECIERO",
+    "precio": "130"
+  },
+  {
+    "sku": "S-311-L-GRI",
+    "descripcion": "SALA 311 LIGHT GRIS",
+    "precio": "1815"
+  },
+  {
+    "sku": "S-311-C-CAF",
+    "descripcion": "SALA 311 CLASICO CAFE",
+    "precio": "2100"
+  },
+  {
+    "sku": "S-311-C-GRI",
+    "descripcion": "SALA 311 CLASICO GRIS",
+    "precio": "2100"
+  },
+  {
+    "sku": "S-311-C-NEG",
+    "descripcion": "SALA 311 CLASICO NEGRO",
+    "precio": "2100"
+  },
+  {
+    "sku": "S-311-L-CAF",
+    "descripcion": "SALA 311 LIGHT CAFÉ",
+    "precio": "1815"
+  },
+  {
+    "sku": "S-311-L-NEG",
+    "descripcion": "SALA 311 LIGHT NEGRO",
+    "precio": "1815"
+  },
+  {
+    "sku": "S-321-L-GRI",
+    "descripcion": "SALA 321 LIGHT GRIS",
+    "precio": "2050"
+  },
+  {
+    "sku": "S-321-C-CAF",
+    "descripcion": "SALA 321 CLASICO CAFE",
+    "precio": "2400"
+  },
+  {
+    "sku": "S-321-C-MIX",
+    "descripcion": "SALA 321 CLASICO MIX",
+    "precio": "2500"
+  },
+  {
+    "sku": "S-GEN-C-CAF",
+    "descripcion": "SALA GENOVA CLASICO CAFÉ",
+    "precio": "4300"
+  },
+  {
+    "sku": "S-GEN-P-CUE",
+    "descripcion": "SALA GENOVA PLUS CUERINA",
+    "precio": "4500"
+  },
+  {
+    "sku": "S-GEN-P-MIX",
+    "descripcion": "SALA GENOVA PLUS MIX",
+    "precio": "4700"
+  },
+  {
+    "sku": "S-ITA-C-CAF",
+    "descripcion": "SALA ITALIA CLASICO CAFÉ",
+    "precio": "2700"
+  },
+  {
+    "sku": "S-ITA-C-GRI",
+    "descripcion": "SALA ITALIA CLASICO GRIS",
+    "precio": "2700"
+  },
+  {
+    "sku": "S-ITA-C-NEG",
+    "descripcion": "SALA ITALIA CLASICO NEGRO",
+    "precio": "2700"
+  },
+  {
+    "sku": "S-ITA-P-GRI",
+    "descripcion": "SALA ITALIA PLUS GRIS",
+    "precio": "3000"
+  },
+  {
+    "sku": "S-KAN-P-MIX",
+    "descripcion": "SALA KANSAS PLUS MIX",
+    "precio": "4000"
+  },
+  {
+    "sku": "S-MAD-C-CAF",
+    "descripcion": "SALA MADRID CLASICO CAFÉ",
+    "precio": "3700"
+  },
+  {
+    "sku": "S-MAD-C-MIX",
+    "descripcion": "SALA MADRID CLASICO MIX",
+    "precio": "3850"
+  },
+  {
+    "sku": "UVFURNITURE00339",
+    "descripcion": "ROPERO CAIRO + LIBRERA WENGHE LISO MELAMINA",
+    "precio": "750"
+  },
+  {
+    "sku": "MELFURNlTURE00885",
+    "descripcion": "ROPERO 3 PUERTAS FROST MONT MELAMINA LISO",
+    "precio": "700"
+  },
+  {
+    "sku": "MELFURNITURE00650",
+    "descripcion": "ROPERO FRESNO 3P FROST MONT MELAMINA LISO",
+    "precio": "950"
+  },
+  {
+    "sku": "MELFURNITURE00909",
+    "descripcion": "ROPERO FRESNO 3P + ESPEJO Y LIBRERA FROST MONT LISO MELAMINA",
+    "precio": "1250"
+  },
+  {
+    "sku": "MELFURNITURE00904",
+    "descripcion": "ROPERO FRESNO 3 PUERTAS WENGHE MELAMINA LISO",
+    "precio": "700"
+  },
+  {
+    "sku": "MELFURNlTURE00884",
+    "descripcion": "ROPERO 4 PUERTAS FROST MONT MELAMINA LISO",
+    "precio": "850"
+  },
+  {
+    "sku": "MELFURNITURE00651",
+    "descripcion": "ROPERO CAOBA 4P FROST MONT MELAMINA LISO",
+    "precio": "1150"
+  },
+  {
+    "sku": "MELFURNITURE00908",
+    "descripcion": "ROPERO CAOBA 4P + ESPEJO Y LIBRERA FROST MONT MELAMINA LISO",
+    "precio": "1375"
+  },
+  {
+    "sku": "MELFURNITURE00903",
+    "descripcion": "ROPERO CAOBA 4 PUERTAS WENGHE MELAMINA LISO",
+    "precio": "850"
+  },
+  {
+    "sku": "UVFURNITURE00530",
+    "descripcion": "ROPERO CEREZO 4P WENGUE LISO TECNOLOFIA UV + LIBRERAS",
+    "precio": "1100"
+  },
+  {
+    "sku": "MELFURNlTURE00883",
+    "descripcion": "ROPERO 6 PUERTAS FROST MONT MELAMINA LISO",
+    "precio": "1200"
+  },
+  {
+    "sku": "MELFURNITURE00713",
+    "descripcion": "ROPERO OCRE WENGHE MELAMINA LISO",
+    "precio": "1786"
+  },
+  {
+    "sku": "MELFURNITURE00913",
+    "descripcion": "ROPERO TECA 6P + ESPEJO Y LIBRERA WENGE MELAMINA LISO",
+    "precio": "1745"
+  },
+  {
+    "sku": "MELFURNITURE00907",
+    "descripcion": "ROPERO TECA 6P + ESPEJO Y LIBRERA FROST MONT MELAMINA LISO",
+    "precio": "1745"
+  },
+  {
+    "sku": "MELFURNITURE00902",
+    "descripcion": "ROPERO TECA 6 PUERTAS WENGHE MELAMINA LISO",
+    "precio": "1200"
+  },
+  {
+    "sku": "MELFURNITURE00014",
+    "descripcion": "RACK ROCHEDO WENGHE LISO MELAMINA",
+    "precio": "400"
+  },
+  {
+    "sku": "MELFURNITURE00019",
+    "descripcion": "RACK ABETO WENGHE LISO MELAMINA",
+    "precio": "350"
+  },
+  {
+    "sku": "CK0000070",
+    "descripcion": "ALMOHADAS SUEÑOLANDIA",
+    "precio": "18"
+  },
+  {
+    "sku": "MELFURNITURE00015",
+    "descripcion": "MODULO ROCHEDO WENGHE LISO MELAMINA",
+    "precio": "800"
+  },
+  {
+    "sku": "SALAMODA00368",
+    "descripcion": "BIG COJIN",
+    "precio": "60"
+  },
+  {
+    "sku": "CK000001",
+    "descripcion": "CABECERA BRANDS HORIZONTAL ROJO M/Q",
+    "precio": "175"
+  },
+  {
+    "sku": "CK000004",
+    "descripcion": "CABECERA BRANDS KING GRIS",
+    "precio": "225"
+  },
+  {
+    "sku": "MELFURNITURE00196",
+    "descripcion": "LAVATRASTOS WENGHE LISO MELAMINA",
+    "precio": "1399"
+  },
+  {
+    "sku": "CK000002",
+    "descripcion": "CABECERA BRANDS VERTICAL AMARILLO KING",
+    "precio": "225"
+  },
+  {
+    "sku": "CK000208",
+    "descripcion": "CABECERA  BRANDS KING",
+    "precio": "225"
+  },
+  {
+    "sku": "MELFURNITURE00590",
+    "descripcion": "COCINETA GALICIA WENGUE MELAMINA LISO TOP GRANITO OSCURO",
+    "precio": "2550"
+  },
+  {
+    "sku": "MELFURNITURE00762",
+    "descripcion": "COCINETA BELGA WENGHE TECNOLOGIA UV (2.86)",
+    "precio": "2650"
+  },
+  {
+    "sku": "MELFURNlTURE00887",
+    "descripcion": "COCINA TOKIO PLUS WENGUE MELAMINA LISO (JALADOR ALUMINIO)",
+    "precio": "2500"
+  },
+  {
+    "sku": "MELFURNlTURE00886",
+    "descripcion": "COCINA QATAR PLUS WENGUE MELAMINA LISO (JALADOR ALUMINIO)",
+    "precio": "2000"
+  },
+  {
+    "sku": "MELFURNITURE00201",
+    "descripcion": "COCINA ONIX SIN LAVATRASTOS WENGHE",
+    "precio": "5050"
+  },
+  {
+    "sku": "MELFURNITURE00535",
+    "descripcion": "COCINA CRISTAL PLUS WENGHE MELAMINA LISO TOP GRANITO OSCURO",
+    "precio": "4300"
+  },
+  {
+    "sku": "10600108",
+    "descripcion": "CAMA QUEEN 2 EURO MULTICOLOR ROJO",
+    "precio": "1199"
+  },
+  {
+    "sku": "10600101",
+    "descripcion": "CAMA QUEEN 2 EURO MULTICOLOR NEGRO",
+    "precio": "1199"
+  },
+  {
+    "sku": "10600106",
+    "descripcion": "CAMA KING 2 EURO MULTICOLOR AMARILLO",
+    "precio": "1520"
+  },
+  {
+    "sku": "10600102",
+    "descripcion": "CAMA KING 2 EURO MULTI COLOR NEGRO",
+    "precio": "1520"
+  },
+  {
+    "sku": "10600112",
+    "descripcion": "CAMA KING 2 EURO FAMESA NARANJA",
+    "precio": "1520"
+  },
+  {
+    "sku": "10650058",
+    "descripcion": "CAMA FIRME KING CAFE SUEÑOLANDIA",
+    "precio": "1305"
+  },
+  {
+    "sku": "CAMA00195",
+    "descripcion": "CAMA IMPERIAL BASICA BLU REST CONFORT",
+    "precio": "695"
+  },
+  {
+    "sku": "10650056",
+    "descripcion": "CAMA FIRME MATRIMONIAL CAFE SUEÑOLANDIA",
+    "precio": "809"
+  },
+  {
+    "sku": "CK000209",
+    "descripcion": "CABECERA  BRANDS MATRI / QUEEN",
+    "precio": "175"
+  },
+  {
+    "sku": "SALAMODA00369",
+    "descripcion": "DUO BIG COJIN",
+    "precio": "120"
+  },
+  {
+    "sku": "CK0000258",
+    "descripcion": "ESQUINERO BAJO NEW NEGRO CHOCOLATE",
+    "precio": "200"
+  },
+  {
+    "sku": "CK000215",
+    "descripcion": "MARQUEZA CHOCOLATE/NEGRO",
+    "precio": "790"
+  },
+  {
+    "sku": "CK000200",
+    "descripcion": "MESA PEQUEÑA SONY",
+    "precio": "125"
+  },
+  {
+    "sku": "CK000202",
+    "descripcion": "MESITA CON MEDIA PUERTA",
+    "precio": "135"
+  },
+  {
+    "sku": "MELFURNITURE00197",
+    "descripcion": "MUEBLE AUXILIAR DE COCINA (CILINDRO DE GAS Y AGUA PURA)",
+    "precio": "284"
+  },
+  {
+    "sku": "MELFURNITURE00629",
+    "descripcion": "ALACENA AZAFRAN 60 WENGUE MELAMINA LISO TOP GRANITO OSCURO",
+    "precio": "950"
+  },
+  {
+    "sku": "28463214",
+    "descripcion": "TABURETE PEQUEÑO",
+    "precio": "142"
+  },
+  {
+    "sku": "S-SEV-C-MIX",
+    "descripcion": "SALA SEVILLA CLASICO MIX",
+    "precio": "3000"
+  },
+  {
+    "sku": "FRATERNIDAD005",
+    "descripcion": "COMEDOR FRATERNIDAD 6 SILLAS RECTANGULAR 1.6M X 1.10M LISTONEADO",
+    "precio": "3000"
+  },
+  {
+    "sku": "EQUILIBRIO002",
+    "descripcion": "COMEDOR EQUILIBRIO 4 SILLAS CUADRADO 1.1M X 1.1M",
+    "precio": "2000"
+  },
+  {
+    "sku": "ITALIA0008",
+    "descripcion": "COMEDOR ITALIA 8 SILLAS",
+    "precio": "4061"
+  },
+  {
+    "sku": "CK0000087           ",
+    "descripcion": "COMEDOR TAPIZADO DE 4 SILLAS SANTA CRUZ",
+    "precio": "1600"
+  },
+  {
+    "sku": "10400035",
+    "descripcion": "COMEDOR TAPIZADO DE 6 PERSONAS SANTA CRUZ ",
+    "precio": "2200"
+  },
+  {
+    "sku": "INTEGRACION008",
+    "descripcion": "COMEDOR INTEGRACION",
+    "precio": "6400"
+  },
+  {
+    "sku": "SALAMODA00367",
+    "descripcion": "TRIPACK COJIN",
+    "precio": "80"
+  },
+  {
+    "sku": "MELFURNITURE00849",
+    "descripcion": "MARQUEZA FROST MONT MELAMINA LISO",
+    "precio": "766"
+  },
+  {
+    "sku": "MELFURNITURE00001",
+    "descripcion": "ROPERO CAIRO WENGE MELAMINA LISO",
+    "precio": "550"
+  },
+  {
+    "sku": "10600111",
+    "descripcion": "CAMA QUEEN 2 EURO FAMESA NARANJA",
+    "precio": "1199"
+  },
+  {
+    "sku": "MELFURNlTURE00560",
+    "descripcion": "LAVATRASTOS PLUS WENGE MELAMINA LISO",
+    "precio": "1399"
+  },
+  {
+    "sku": "CK000003",
+    "descripcion": "CABECERA BRANDS M/Q GRIS",
+    "precio": "175"
+  },
+  {
+    "sku": "S-211-L-GRI",
+    "descripcion": "SALA 211 LIGTH GRIS",
+    "precio": "1675"
+  },
+  {
+    "sku": "S-311-C-MIX",
+    "descripcion": "SALA 311 CLASICO MIX",
+    "precio": "2100"
+  },
+  {
+    "sku": "S-321-L-CAF",
+    "descripcion": "SALA 321 LIGHT CAFÉ",
+    "precio": "1950"
+  },
+  {
+    "sku": "S-321-L-NEG",
+    "descripcion": "SALA 321 LIGHT NEGRO",
+    "precio": "1950"
+  },
+  {
+    "sku": "SALAMODA00377",
+    "descripcion": "TABURETE FULL TELA NEGRO",
+    "precio": "142"
+  },
+  {
+    "sku": "SALAMODA00378",
+    "descripcion": "TABURETE FULL TELA GRIS",
+    "precio": "142"
+  },
+  {
+    "sku": "MELFURNITURE00919",
+    "descripcion": "ROPERO FRESNO 3P + ESPEJO Y LIBRERA WENGE LISO MELAMINA",
+    "precio": "1250"
+  },
+  {
+    "sku": "MELFURNITURE00917",
+    "descripcion": "ROPERO CAOBA 4P + ESPEJO FROST MONT MELAMINA LISO",
+    "precio": "1200"
+  },
+  {
+    "sku": "MELFURNITURE00918",
+    "descripcion": "ROPERO CAOBA 4P + ESPEJO WENGE MELAMINA LISO",
+    "precio": "1200"
+  },
+  {
+    "sku": "MELFURNITURE00920",
+    "descripcion": "ROPERO CAOBA 4P + ESPEJO Y LIBRERA WENGE MELAMINA LISO",
+    "precio": "1375"
+  },
+  {
+    "sku": "MELFURNITURE00913",
+    "descripcion": "ROPERO TECA 6P + ESPEJO Y LIBRERA WENGE MELAMINA LISO",
+    "precio": "1745"
+  },
+  {
+    "sku": "MELFURNITURE00026",
+    "descripcion": "COCINA CRISTAL WENGHE LISO MELAMINA",
+    "precio": "4300"
+  },
+  {
+    "sku": "10650057",
+    "descripcion": "CAMA FIRME QUEEN CAFE SUEÑOLANDIA",
+    "precio": "963"
+  },
+  {
+    "sku": "10600186",
+    "descripcion": "CAMA ORANGE REST KING 2 EURO DE LUJO",
+    "precio": "2008"
+  },
+  {
+    "sku": "10600185",
+    "descripcion": "CAMA ORANGE REST QUEEN 2 EURO DE LUJO",
+    "precio": "1527"
+  },
+  {
+    "sku": "10600184",
+    "descripcion": "CAMA ORANGE REST MATRIMONIAL 2 EURO DE LUJO",
+    "precio": "1342"
+  },
+  {
+    "sku": "S-21B-L-GRI",
+    "descripcion": "SALA 21 BUTACA LIGHT GRIS",
+    "precio": "1925"
+  },
+  {
+    "sku": "10600100",
+    "descripcion": "CAMA MATRIMONIAL 2 EURO MULTI COLOR NEGRO",
+    "precio": "1065"
+  },
+  {
+    "sku": "MELFURNITURE00652",
+    "descripcion": "ROPERO TECA 6P FROST MONT MELAMINA LISO",
+    "precio": "1550"
+  },
+  {
+    "sku": "MELFURNITURE00593",
+    "descripcion": "COCINA TIKAL PLUS WENGUE MELAMINA LISO TOP GRANITO OSCURO",
+    "precio": "3600"
+  },
+  {
+    "sku": "MELFURNITURE00779",
+    "descripcion": "COCINETA MAUI WENGHE TECNOLOGIA UV",
+    "precio": "1900"
+  },
+  {
+    "sku": "MELFURNITURE00671",
+    "descripcion": "COCINA HAVANA PLUS WENGUE MELAMINA LISO TOP GRANITO OSCURO",
+    "precio": "7100"
+  },
+  {
+    "sku": "MELFURNlTURE00880",
+    "descripcion": "COCINA RUBI COMPACT WENGHE TECNOLOGIA UV",
+    "precio": "1625"
+  },
+  {
+    "sku": "MELFURNITURE00245",
+    "descripcion": "COCINA FENIX WENGHE MELAMINA LISO",
+    "precio": "6950"
+  }
+
+]
