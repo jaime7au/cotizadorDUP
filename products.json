@@ -520,9 +520,17 @@
     "precio": "1625"
   },
   {
-    "sku": "MELFURNITURE00245",
-    "descripcion": "COCINA FENIX WENGHE MELAMINA LISO",
+    "sku": "MELFURNITURE-00882",
+    "descripcion": "COCINA FENIX PLUS WENGHE LISO MELAMINA (JALADOR UÑERO)",
+    "precio": "7450"
+  }, 
+
+  {
+    "sku": "MELFURNITURE00905",
+    "descripcion": "COCINA FENIX WENGHE LISO MELAMINA (JALADOR UÑERO)",
     "precio": "6950"
-  }
+  } 
+
 
 ]
+
