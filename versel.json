@@ -1,21 +1,5 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/",
-      "dest": "index.html"
-    },
-    {
-      "src": "/login",
-      "dest": "login.html"
-    },
-    {
-      "src": "/consulta-cotizaciones",
-      "dest": "consulta-cotizaciones.html"
-    },
-    {
-      "src": "/administrar",
-      "dest": "administrar.html"
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
   ]
 }
