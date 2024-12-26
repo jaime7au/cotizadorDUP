@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/",
+      "dest": "index.html"
+    },
+    {
+      "src": "/consulta-cotizaciones",
+      "dest": "consulta-cotizaciones.html"
+    },
+    {
+      "src": "/administrar",
+      "dest": "administrar.html"
+    }
+  ]
+}
